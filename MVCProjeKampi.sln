@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCProjeKampi", "MVCProjeKampi\MVCProjeKampi.csproj", "{91A58064-0DD1-423A-8DC5-E48E7FE80398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{E8AC2C67-5355-42E0-AC4C-7320E1609DE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entity\Entities.csproj", "{E8AC2C67-5355-42E0-AC4C-7320E1609DE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A3777949-21C5-4255-AE12-730F75DE14CF}"
 EndProject
